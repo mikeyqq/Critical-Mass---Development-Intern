@@ -4,18 +4,22 @@
 
 Provide up to three examples of work/projects that you've recently participated in and provide detailed information about your role and contributions to the project.
 
-1. https://www.chosenfamilyday.ca/
+1. 
+# https://www.chosenfamilyday.ca/
 
 Chosen Family Day - This project was called Chosen Family Day. The purpose was to recognize and celebrate the valued relationships between friends and allies in the LGBTQI2S community. I was assigned the role as the main developer, I was given the responsibility to decide the technologies to create this project in 2 weeks. Partnered in with our Senior Designer to address images/assets/typography sizing to expect an optimal level of performance when rendering/compile on the actual site. I collaborated with our teams UX Architecture to understand the flow and user experience of the designed pages.  Our client wanted a special effect headline on the landing page (wavey text). I discovered that Airbnb has a library called Lottie, which can render After Effects animations in real-time. Then I got in contact with our motion designer who created a wavey headline animation in After Effects rendering to Bodymovin. I was able to plug this JSON file into Lottie to create the effect live. We had also implemented an User Generated Content Social Media Feed through Elfsight, and this would display instagram feeds through a specific hashtag.
 The technologies used to create this website; Webflow CMS, Elfsight, GoDaddy for domain.
 
-2. https://www.hrblock.ca/tax-scenarios/us-tax-returns/
+2. 
+# https://www.hrblock.ca/tax-scenarios/us-tax-returns/
 
 HRBLOCK - I was the developer for this specific project. With tax season approaching, HRBlock has many updates, page builds, and maintenance on their website/application. I was given this page design to build utilizing WordPress - PHP. I had no experience with WordPress, so I had to quickly get up to speed with understanding this tool. I collaborated with our team's Senior Designer and Digital Producer to understand the layout of the page and provide feedback on images/assets to optimize performance on the site. I recommended and implemented the use of images below 100kb and 1200x675 to create the best responsive experience and increased better performance measures when a client lands on the page. When building this website page, I would use HTML5/CSS3 and optimize responsive web with media queries. Manipulating the DOM was also the reason for my success in completing this page before the given project due date.
 Some of the learns I had working with WordPress is that many items are built and used with specific plugins, and this limited your own creativity with styling.
 
-3. https://github.com/mikeyqq/serverless-stack-client
-https://pocketlist.netlify.com/
+3. 
+# https://github.com/mikeyqq/serverless-stack-client
+
+# https://pocketlist.netlify.com/
 
 Pocket list - I bumped into an article about cloud computing and serverless architectures that blew my mind. Amazon web services offer many technologies that help companies explore serverless experiences. I thought about how fast I could help companies save money establishing a better understanding of AWS. Other mentionable benefits of serverless computing would be eliminating server management, establish quicker deployments and app updates, and increasing the overall development experience.
 During this project as the developer, I was setting up the AWS CLI that would establish the functions and services on amazon to allow serverless computing. It was literally Amazon running my API Gateway with Lambda that would allow my front end to perform CRUD with it. I had DynamoDB set up as the database and Cognito services for authentication. The coolest part is that Amazon also has S3 that would allow you to save files/images/documents to it. With the serverless services setup, I was spending more time with the front end aspect of the application and focusing on the users' experience. The front end was built was React and React Bootstrap as the UI.
