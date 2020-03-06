@@ -34,9 +34,9 @@ This was  the coolest and inspiring project I worked on recently. As an Software
 I was seeing the world of HTML5/CSS3 through a new level working with how to recreate physical products like this polaroid camera with CSS only.
 There were many notable learns that really elevated my underdstanding and levels as a coder. Planning, structuring components, understanding style and size, working with shadows, hightlights, and reflections.
 
-3. https://www.youtube.com/watch?v=qv0xN_T7owI
+3. https://medium.com/facebook-design/using-thoughtful-design-to-fight-bullying-on-instagram-d7943d7cb721
 
-This last item literally blow my mind off my seat. An individual was able to use macOS voice control to creating an Design in Adobe XD. Talk about accessibility and eliminating all roadblocks to anyone that wants to explore the world of designs.
+Using thoughtful designs to fight bullying and other social issues on social media. This article really hits the spot. On planet Earth, we have more mobile devices than human beings. It unimaginable how easily kids have access to the internet now and know the things they do and say. It's scary how social media apps like Instagram, Tiktok, Snapchat just to name a few are the first batch of applications that people download now. What I love about this article is exploring different ways through design to tackle issues like mental health, self-harm, social comparisons, hate speech, and bullying. What inspired me the most about this article is empowering others to stop bullying when and where it happens through thoughtful design. Because we know visual design and ques can affect one's actions/emotions.
 
 
 
