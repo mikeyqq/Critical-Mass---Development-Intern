@@ -1,4 +1,4 @@
-### Critical-Mass---Development-Intern
+### Development-Intern
 
 ## Work / Project Examples
 
